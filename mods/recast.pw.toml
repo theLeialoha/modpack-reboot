@@ -1,0 +1,13 @@
+name = "Recast"
+filename = "recast-1.21.1-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8TWzoOby/versions/DNAiHaSO/recast-1.21.1-3.6.jar"
+hash-format = "sha512"
+hash = "dd20238ea1e257fb445709c8ca4c3f6679372785d070b540914f72ee088d817544a82e900f330d49d3a390a21cf9592f91078b3616d524a3ccba46ba36b8ad76"
+
+[update]
+[update.modrinth]
+mod-id = "8TWzoOby"
+version = "DNAiHaSO"

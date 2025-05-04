@@ -1,0 +1,205 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-babies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clean-tooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-ccbr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/default-files.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gens-data-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-interactions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/players-drop-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/recast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/swingthrough.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/angels-weather.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/artisanal-nether-bricks.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brush-and-juice.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/computercraft-greg-flavored.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/raven-phantoms.pw.toml"
+metafile = true

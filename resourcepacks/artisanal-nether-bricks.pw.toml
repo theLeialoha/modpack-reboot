@@ -1,0 +1,13 @@
+name = "Artisanal Nether Bricks"
+filename = "Artisanal Nether Bricks v1.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiCgYj9E/versions/aYOn08gj/Artisanal%20Nether%20Bricks%20v1.2.0.zip"
+hash-format = "sha512"
+hash = "505a1fcbf6ee1178b4880310ded23c52b96a1429cc1c3fd801f672b96c380dfdb92414d5caf18bc03e2db2e37790544f698ca44b74953573c0650132db4c7ab2"
+
+[update]
+[update.modrinth]
+mod-id = "eiCgYj9E"
+version = "aYOn08gj"

@@ -1,0 +1,13 @@
+name = "Brush & Juice"
+filename = "Brush+Juice-1.4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulXVKXEC/versions/JjGo4MFR/Brush%2BJuice-1.4.0.zip"
+hash-format = "sha512"
+hash = "c953fc07d2f9c3cfe555a10447abe2823e10a03ebe10a713b7668ba612585c71e3bc22989752fcfc4a20b0b841db67bbbae863493d58650aed08bb7885f41f9e"
+
+[update]
+[update.modrinth]
+mod-id = "ulXVKXEC"
+version = "JjGo4MFR"
