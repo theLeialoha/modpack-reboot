@@ -1,0 +1,27 @@
+[flavor_groups.rendering_mod]
+name = "Rendering Mod"
+description = "Which rendering mod you'd like to use.\nIncreases or decreases performance depending on choices."
+side = "client"
+
+[[flavor_groups.rendering_mod.choices]]
+id = "no_rendering_mods"
+name = "None"
+description = "No rendering mods."
+
+[[flavor_groups.rendering_mod.choices]]
+id = "embeddium"
+name = "Embeddium"
+description = "Installs Embeddium and Iris, increasing performance and providing support for shaderpacks.\n<i>* Includes additional bugfixes & features for better mod compatibility</i>"
+
+[[flavor_groups.rendering_mod.choices]]
+id = "sodium"
+name = "Sodium"
+description = "Installs Sodium and Iris, increasing performance and providing support for shaderpacks."
+
+
+
+
+[metafile.embeddium]
+flavors = ["iris", "embeddium", "monocle-iris"]
+[metafile.sodium]
+flavors = ["iris", "sodium"]
