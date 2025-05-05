@@ -41,16 +41,6 @@ hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
@@ -111,11 +101,6 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
 metafile = true
@@ -173,11 +158,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
 metafile = true
 
 [[files]]
