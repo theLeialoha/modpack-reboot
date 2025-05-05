@@ -186,6 +186,36 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "60a101e185cf244c5951a5daa07660b51f213a616a12ea1e6a19f1028a24e311"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-priority.pw.toml"
+hash = "81e6c249fd91f70223bed77b5cb9fc1ec7279fbbeabf8214eeece68b1d9e4b5f"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "3a74619a6bffdff64959073e38393bed1c79ccee30b87e4d88f018ae0c2efa04"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-whisper.pw.toml"
+hash = "a66c4a3262ea6c122fb6c7759742a669340e6d555b461a93ae55d0512dc151c7"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
