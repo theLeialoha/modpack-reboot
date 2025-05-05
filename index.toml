@@ -171,11 +171,6 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
-file = "mods/players-drop-heads.pw.toml"
-hash = "b51aea4334ca71be7978445adfa1ed91d97657aa392625e36a97aa7a8ade441c"
-metafile = true
-
-[[files]]
 file = "mods/quad.pw.toml"
 hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
@@ -193,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/scribble.pw.toml"
 hash = "3ad87fbb20108d7aa5c89759f64d6695e5ec68553f32976f0710bd0a4d34d85b"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
