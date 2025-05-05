@@ -141,6 +141,11 @@ hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
+file = "mods/monocle-iris.pw.toml"
+hash = "ebb19f81682fcc81ee7330d3b94800eb0696c8de54d1df84e935781c4fa42af5"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true

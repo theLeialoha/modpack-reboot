@@ -1,0 +1,13 @@
+name = "Monocle"
+filename = "monocle-0.1.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/apRGdwku/versions/McCxFKNu/monocle-0.1.8.jar"
+hash-format = "sha512"
+hash = "239f951bdbb79f493abdad4d99d6d2c50f238dd6fb27c22fb4821988ebe3bb8b1a35652e29a56dc4c7c409370e8f86e86367ce3d0c6ee955138ebc3d642b1a6e"
+
+[update]
+[update.modrinth]
+mod-id = "apRGdwku"
+version = "McCxFKNu"
