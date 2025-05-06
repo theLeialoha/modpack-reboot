@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Микросхема",
+  "item.cc_recrafted.pcb_base": "Фольгированный стеклотекстолит",
+  "item.cc_recrafted.power_supply": "Блок питания",
+  "item.cc_recrafted.incomplete_processor": "Незавершённый процессор",
+  "item.cc_recrafted.incomplete_advanced_processor": "Незавершённый продвинутый процессор",
+  "item.cc_recrafted.processor": "Процессор",
+  "item.cc_recrafted.advanced_processor": "Продвинутый процессор",
+  "item.cc_recrafted.computer_board": "Материнская плата",
+  "item.cc_recrafted.advanced_computer_board": "Продвинутая материнская плата",
+  "item.cc_recrafted.wireless_ender_core": "Беспроводной Эндер модуль",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Circuito Interno",
+  "item.cc_recrafted.pcb_base": "Base de Tarjeta Impresa",
+  "item.cc_recrafted.power_supply": "Fuente de Alimentación",
+  "item.cc_recrafted.incomplete_processor": "Procesador Incompleto",
+  "item.cc_recrafted.incomplete_advanced_processor": "Procesador Avanzado Incompleto",
+  "item.cc_recrafted.processor": "Procesador",
+  "item.cc_recrafted.advanced_processor": "Procesador Avanzado",
+  "item.cc_recrafted.computer_board": "Placa Base",
+  "item.cc_recrafted.advanced_computer_board": "Placa Base Avanzada",
+  "item.cc_recrafted.wireless_ender_core": "Módulo Inalámbrico Ender",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

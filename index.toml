@@ -1,6 +1,138 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/be_by.json"
+hash = "b47eaec22ad31507cf8b66cd3585584c2125167ce6ba167b77358596be91f222"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/de_de.json"
+hash = "f70b2213981453fc911754c0a1803edee33e57db362307de9ec5b442031e3b85"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/en_us.json"
+hash = "4d31545d0434673f7cd32c27ed99bfaab9d64ed9adc7b6fe5abf476ef00df9f2"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/eo_uy.json"
+hash = "e6bf942577e4e4a9d37986cb721603d904298b95841a867ae792280e92f08add"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/es_es.json"
+hash = "241644af2112329800ecb6b3d35af759050c158e395e72c15875e3e3b140be8a"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/fr_fr.json"
+hash = "aba72aed24eb61a45136b5e3ece91899d4d81bacc6cec8fc9cafc0bc68bb7ee4"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/lol_us.json"
+hash = "6d90db6e89c7112e9fdc67b03348c17fc509840a9bca90ba2d91d8e05734fdcf"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/pl_pl.json"
+hash = "dcb3aee4d6dc836f636a9ee37b10f60afd3e1db6dcd455d8c3d619b0d04a049c"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/ru_ru.json"
+hash = "461e4a78a571d7b4ca46d69814f4da425b794d896e1a027fcaa0f62277b9413e"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/lang/uk_ua.json"
+hash = "0ca48ecf27e28338e2fbaa42460d4fcd192c06c4fe646d5ee5e1d3d443fc9a53"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/advanced_computer_board.json"
+hash = "b92c5d424cfbdd62bed936c9728965fcdd36399a36a078414f7b258e166a105d"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/advanced_processor.json"
+hash = "4af1619c63c5321e6a1048f87ec8e7a79ed35618dc39ffcc652ce6107be6cb60"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/computer_board.json"
+hash = "31ebfcd25468e59bd1f7e60539eab2e138af42c4f4b590f4f90f0fe1000b11cc"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/incomplete_advanced_processor.json"
+hash = "98b642c020c83456f8b5ed066599cdc0ab619d3eb1f8e1e11c882f520c83158c"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/incomplete_processor.json"
+hash = "98b642c020c83456f8b5ed066599cdc0ab619d3eb1f8e1e11c882f520c83158c"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/internal_circuit.json"
+hash = "80aa119fbf7ebd9b91e63b41ab85194c88b94f56b40968ccd8934632f2a14ff8"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/pcb_base.json"
+hash = "402e55e9b4d8aa3d6df036326804e6a64b1ff2145e5a7e296a2d614a4d60249b"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/power_supply.json"
+hash = "7e37f662fb13ee6d951e1c03b23f8e5042ca46aa0040f64f9183c96550e2868d"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/processor.json"
+hash = "5487b56968943e5b1dbf932cb63c0e0dfc486cdd8b6bf0b5ddb14bf8a911d222"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/models/item/wireless_ender_core.json"
+hash = "f3746c29277b9ac1bef82c40ca1e69f894f1ddec7496e68e4391fb7a689195ec"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/advanced_processor.png"
+hash = "73a0d4f904e39275b174b1286bf9fb2cbb51a49b64146944009e7b194a8442b3"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/electro_components.png"
+hash = "93ccfa7c06bfbc20a8a95a9e01dbde645cf84b25452cbb33681690697c80f444"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/incomplete_processor.png"
+hash = "d67a83d129268bcdef7b7f5258f27848f96ae0dc2d11bed8657c7525dcbd2bf2"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/internal_circuit.png"
+hash = "2e937958fb01f3ae591b4434f7c9bfd6786f12d196825363231b67ee2116fe8d"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/pcb_base.png"
+hash = "3110169a8702de9982e2e7af1696cdba6ad04f2e8a21773bc62e8a2bcb21ce66"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/processor.png"
+hash = "dd3ed5eca891fd46607b330740ce3aa1e961dc29be8c12d49677f2d789d8cef8"
+
+[[files]]
+file = "kubejs/assets/cc_recrafted/textures/item/wireless_ender_core.png"
+hash = "eeaa98fdaecf442edac23a077ed4598a3edba50669470aeffdbae6bf486434ee"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/cc_recrafted.js"
+hash = "9551e7cdfd9d8d4af2b56dc3abb071b9de9826f67d537f170a2a0959c8215438"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/cc_tweaked.js"
+hash = "16d1334e04ab20eb4e0917c1593092da14215211208105831681f5fb4ecff4da"
+
+[[files]]
+file = "kubejs/server_scripts/utils/recipe_manager.js"
+hash = "748b37c7127656d1bd971e7b32cac3c504534802159f8f1f6e585830d212a6b3"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "d56c9316175c7c30efdd9289417cbde2177ea24252ec26097a05b908c9d2278b"
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
 metafile = true
@@ -63,11 +195,6 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "a59457f6cd1ed326cf23b0baf95c71565cfd86033870ef1a559d18231bc2cab4"
-metafile = true
-
-[[files]]
-file = "mods/create-ccbr.pw.toml"
-hash = "b2b7a901e7e24f6fbd2f2236320c9c2df88aa30f04a7eb643d723010b173b883"
 metafile = true
 
 [[files]]

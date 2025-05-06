@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Internal Circuit",
+  "item.cc_recrafted.pcb_base": "Printed Board Base",
+  "item.cc_recrafted.power_supply": "Power Supply",
+  "item.cc_recrafted.incomplete_processor": "Incomplete Processor",
+  "item.cc_recrafted.incomplete_advanced_processor": "Incomplete Advanced Processor",
+  "item.cc_recrafted.processor": "Processor",
+  "item.cc_recrafted.advanced_processor": "Advanced Processor",
+  "item.cc_recrafted.computer_board": "Computer Board",
+  "item.cc_recrafted.advanced_computer_board": "Advanced Computer Board",
+  "item.cc_recrafted.wireless_ender_core": "Wireless Ender Core",
+
+  "itemGroup.cc_recrafted.item_group": "CC: Recrafted"
+}

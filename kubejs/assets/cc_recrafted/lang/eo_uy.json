@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Interna Cirkvito",
+  "item.cc_recrafted.pcb_base": "Presita Tabulo Bazo",
+  "item.cc_recrafted.power_supply": "Elektroprovizo",
+  "item.cc_recrafted.incomplete_processor": "Nekompleta Procesoro",
+  "item.cc_recrafted.incomplete_advanced_processor": "Nekompleta Progresinta Procesoro",
+  "item.cc_recrafted.processor": "Procesoro",
+  "item.cc_recrafted.advanced_processor": "Progresinta Procesoro",
+  "item.cc_recrafted.computer_board": "Komputila Tabulo",
+  "item.cc_recrafted.advanced_computer_board": "Progresinta Komputila Tabulo",
+  "item.cc_recrafted.wireless_ender_core": "Sendrata Endera Kerno",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

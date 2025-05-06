@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "INTRNAL CIRKIT",
+  "item.cc_recrafted.pcb_base": "PRENTD BOARD BAZE",
+  "item.cc_recrafted.power_supply": "POUwUAH SUPPLY",
+  "item.cc_recrafted.incomplete_processor": "INCOMPLT PROCESSOR",
+  "item.cc_recrafted.incomplete_advanced_processor": "INCOMPLT ADUwUANCED PROCESSOR",
+  "item.cc_recrafted.processor": "PROCESSOR",
+  "item.cc_recrafted.advanced_processor": "ADUwUANCED PROCESSOR",
+  "item.cc_recrafted.computer_board": "COMPOOTR BOARD",
+  "item.cc_recrafted.advanced_computer_board": "ADUwUANCED COMPOOTR BOARD",
+  "item.cc_recrafted.wireless_ender_core": "UwUIRELESS ENDER CORE",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

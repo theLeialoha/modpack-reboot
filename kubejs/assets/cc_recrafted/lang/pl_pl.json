@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Obwód Wewnętrzny",
+  "item.cc_recrafted.pcb_base": "Podstawa Płytki Drukowanej",
+  "item.cc_recrafted.power_supply": "Zasilacz",
+  "item.cc_recrafted.incomplete_processor": "Nieukończony Procesor",
+  "item.cc_recrafted.incomplete_advanced_processor": "Nieukończony Zaawansowany Procesor",
+  "item.cc_recrafted.processor": "Procesor",
+  "item.cc_recrafted.advanced_processor": "Zaawansowany Procesor",
+  "item.cc_recrafted.computer_board": "Płyta Główna",
+  "item.cc_recrafted.advanced_computer_board": "Zaawansowana Płyta Główna",
+  "item.cc_recrafted.wireless_ender_core": "Bezprzewodowy Moduł Ender",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

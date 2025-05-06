@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Електросхема",
+  "item.cc_recrafted.pcb_base": "Фольгований Склотекстоліт",
+  "item.cc_recrafted.power_supply": "Блок Живлення",
+  "item.cc_recrafted.incomplete_processor": "Незавершенний процесор",
+  "item.cc_recrafted.incomplete_advanced_processor": "Незавершений Просунутий Процесор",
+  "item.cc_recrafted.processor": "Процесор",
+  "item.cc_recrafted.advanced_processor": "Просунутий Процесор",
+  "item.cc_recrafted.computer_board": "Материнська Плата",
+  "item.cc_recrafted.advanced_computer_board": "Просунута Материнська Плата",
+  "item.cc_recrafted.wireless_ender_core": "Бездротовий модуль Енду",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

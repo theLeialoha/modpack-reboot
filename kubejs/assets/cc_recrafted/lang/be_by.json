@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Мікрасхема",
+  "item.cc_recrafted.pcb_base": "Фальгіраваны шклотэксталіт",
+  "item.cc_recrafted.power_supply": "Блок харчавання",
+  "item.cc_recrafted.incomplete_processor": "Незавершаны працэсар",
+  "item.cc_recrafted.incomplete_advanced_processor": "Незавершаны прасунуты працэсар",
+  "item.cc_recrafted.processor": "Працэсар",
+  "item.cc_recrafted.advanced_processor": "Прасунуты працэсар",
+  "item.cc_recrafted.computer_board": "Мацярынская плата",
+  "item.cc_recrafted.advanced_computer_board": "Прасунутая мацярынская плата",
+  "item.cc_recrafted.wireless_ender_core": "Бесправадны Эндар модуль",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

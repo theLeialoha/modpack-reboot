@@ -1,0 +1,14 @@
+{
+  "item.cc_recrafted.internal_circuit": "Interner Schaltkreis",
+  "item.cc_recrafted.pcb_base": "Grundplatte",
+  "item.cc_recrafted.power_supply": "Stromversorgung",
+  "item.cc_recrafted.incomplete_processor": "Unvollständiger Prozessor",
+  "item.cc_recrafted.incomplete_advanced_processor": "Unvollständiger Erweiterter Prozessor",
+  "item.cc_recrafted.processor": "Prozessor",
+  "item.cc_recrafted.advanced_processor": "Erweiterter Prozessor",
+  "item.cc_recrafted.computer_board": "Hauptplatine",
+  "item.cc_recrafted.advanced_computer_board": "Erweiterte Hauptplatine",
+  "item.cc_recrafted.wireless_ender_core": "Kabelloser Ender-Modul",
+
+  "creativetab.ccrecrafted_tab": "CC:Recrafted"
+}

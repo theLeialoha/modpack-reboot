@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cc_recrafted:item/advanced_processor"
+  }
+
+}
