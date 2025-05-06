@@ -1,0 +1,13 @@
+name = "ItemPhysic"
+filename = "ItemPhysic_NEOFORGE_v1.8.6_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aT8BzaOj/versions/wDQRL3bE/ItemPhysic_NEOFORGE_v1.8.6_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "bf8066d0ef569ed32126c7aa7b3ab7a1f7495719774c4c29a66576712d77a65e15c091615b7f353e02d7301d520c083b6cc73f71547edbe473ea77a4a3f99187"
+
+[update]
+[update.modrinth]
+mod-id = "aT8BzaOj"
+version = "wDQRL3bE"

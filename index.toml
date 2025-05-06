@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
 
 [[files]]
@@ -61,6 +76,11 @@ hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "54a9f92c92aebcbb913c0fcf1d3d3430214b612fe7f4b9901528b6a60d4f425f"
+metafile = true
+
+[[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
@@ -68,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
@@ -136,6 +161,11 @@ hash = "c71462d72924eb6f74dca8c4701d7309cf3a8a028c06a9c1882cd577f1db5dfb"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "0403152702ae32210bf5804a8912e584d19c4b8bcea71662a8e2b9cbb14f35c4"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
@@ -148,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
@@ -186,6 +221,11 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "60a101e185cf244c5951a5daa07660b51f213a616a12ea1e6a19f1028a24e311"
 metafile = true
@@ -221,6 +261,11 @@ hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
 
 [[files]]
+file = "mods/radium.pw.toml"
+hash = "1375600837a536424b4e99878da81bc126ad8a1b962b6dea8e38c245b124e143"
+metafile = true
+
+[[files]]
 file = "mods/recast.pw.toml"
 hash = "cd11a78b92ab25136b1cca35b640fcd9def74b035cc8d06cd99aae6900bd8160"
 metafile = true
@@ -228,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
 
 [[files]]
@@ -258,6 +308,16 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "5afffd42338cae5d02b1884cc4192d7241ac66beaddd1e9ed9616e5eaa27ac5f"
 metafile = true
 
 [[files]]
