@@ -61,11 +61,6 @@ hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/crawl.pw.toml"
 hash = "a59457f6cd1ed326cf23b0baf95c71565cfd86033870ef1a559d18231bc2cab4"
 metafile = true
@@ -83,6 +78,16 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "54a9f92c92aebcbb913c0fcf1d3d3430214b612fe7f4b9901528b6a60d4f425f"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
@@ -146,6 +151,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "d88788a00e76a1c7489776cddff1e9179676e842a7cd9f04b59ebc9b3e40c7ac"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
 metafile = true
@@ -196,6 +206,11 @@ hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
 metafile = true
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/monocle-iris.pw.toml"
 hash = "ebb19f81682fcc81ee7330d3b94800eb0696c8de54d1df84e935781c4fa42af5"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
@@ -243,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "60a101e185cf244c5951a5daa07660b51f213a616a12ea1e6a19f1028a24e311"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
@@ -306,18 +331,13 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "470a1bb6f4d968a5331d3eb47ee29443c1135cc7821feaefc86f2338c9b0ecbd"
-metafile = true
-
-[[files]]
-file = "mods/swingthrough.pw.toml"
-hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]
