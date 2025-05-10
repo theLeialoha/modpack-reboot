@@ -206,7 +206,7 @@ hash = "8833521ad6899f1fda3837428443fe1cbe5db8ca43a04af615fc514f80cd9f44"
 
 [[files]]
 file = "kubejs/server_scripts/loot/roughstart.js"
-hash = "3dc4c31572b52c23107fb39265c704d9b0e708c5259a47d810b8d7ce04ee3179"
+hash = "ee7644a7b4525bdb116831701cae41effbf0d5efa0b6887d6aef2d77271c7ffd"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -258,7 +258,7 @@ hash = "d5b4a341e50cae7380184cbffbac9cc1a9d059bad73c5c1d919c9ad501903e67"
 
 [[files]]
 file = "kubejs/startup_scripts/roughstart.js"
-hash = "60636e9148f13cbe1d38c96d27d55096d644ed77d24095e1afe03cf572e6cae8"
+hash = "d17401694a12ac1424d19fd509f1c068ceadbee0ec650e3b517085c556a9edb2"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"

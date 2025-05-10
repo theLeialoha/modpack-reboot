@@ -3,7 +3,7 @@
 LootJS.modifiers((event) => {
   const dropTwine = LootEntry.of("roughstart:twine").when((conditions) => {
     conditions.matchTool("farmersdelight:flint_knife");
-    conditions.randomChance(0.45);
+    conditions.randomChance(0.65);
   });
 
   event.addBlockModifier(["minecraft:grass", "minecraft:tall_grass"]).addSequenceLoot(dropTwine);
