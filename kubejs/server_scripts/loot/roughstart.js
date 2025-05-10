@@ -23,7 +23,7 @@ LootJS.modifiers((event) => {
   );
 
   event
-    .addBlockLootModifier("minecraft:gravel")
+    .addBlockModifier("minecraft:gravel")
     .removeLoot(Ingredient.all)
     .addAlternativesLoot(gravelWhenSilkTouch, appleWhenSilkTouch, gravel);
 });
