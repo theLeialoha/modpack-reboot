@@ -366,6 +366,11 @@ hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "771a5c436b7268c0c3f1a2dfcb804f317ca70577202973ddc4bce2b4704845b6"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
