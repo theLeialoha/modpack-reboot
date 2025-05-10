@@ -37,6 +37,6 @@ BlockEvents.modification((event) => {
   });
 
   event.modify("minecraft:copper_ore", (modify) => {
-    modify.material = "stone";
+    modify.requiresTool = false;
   });
 });

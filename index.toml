@@ -206,7 +206,7 @@ hash = "8833521ad6899f1fda3837428443fe1cbe5db8ca43a04af615fc514f80cd9f44"
 
 [[files]]
 file = "kubejs/server_scripts/loot/roughstart.js"
-hash = "ee7644a7b4525bdb116831701cae41effbf0d5efa0b6887d6aef2d77271c7ffd"
+hash = "03a30aa5fdfd53c61ca601576733004a9d43064215a8aec3511ff0ea51427624"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -258,7 +258,7 @@ hash = "d5b4a341e50cae7380184cbffbac9cc1a9d059bad73c5c1d919c9ad501903e67"
 
 [[files]]
 file = "kubejs/startup_scripts/roughstart.js"
-hash = "d17401694a12ac1424d19fd509f1c068ceadbee0ec650e3b517085c556a9edb2"
+hash = "c0c084b1611f1b896e8bed4c3f474957b84734fe69c6f429b12cd37200bd40ed"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
@@ -333,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
-metafile = true
-
-[[files]]
-file = "mods/clean-tooltips.pw.toml"
-hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
 metafile = true
 
 [[files]]

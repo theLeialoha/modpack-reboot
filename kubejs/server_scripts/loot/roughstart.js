@@ -26,4 +26,21 @@ LootJS.modifiers((event) => {
     .addBlockModifier("minecraft:gravel")
     .removeLoot(Ingredient.all)
     .addAlternativesLoot(gravelWhenSilkTouch, flintWhenFortune, gravel);
+
+  const noDrop = LootEntry.of("minecraft:air").matchTool(
+    ItemFilter.not(ItemFilter.tag("#minecraft:pickaxes")),
+  );
+
+  const copperOreWhenSilkTouch = LootEntry.of("minecraft:copper_ore").when((c) =>
+    c.matchMainHand(ItemFilter.hasEnchantment("minecraft:silk_touch")),
+  );
+
+  const copperDrop = LootEntry.of("minecraft:raw_copper", [2, 5]).applyOreBonus(
+    "minecraft:fortune",
+  );
+
+  event
+    .addBlockModifier("minecraft:copper_ore")
+    .removeLoot(Ingredient.all)
+    .addAlternativesLoot(noDrop, copperOreWhenSilkTouch, copperDrop);
 });
