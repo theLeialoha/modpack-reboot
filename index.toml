@@ -476,6 +476,11 @@ hash = "f3f4c84a0618e7559226a82b23bdb1ece40d3d03bda4f84e57db4db6b0b42cb0"
 metafile = true
 
 [[files]]
+file = "mods/experimentalist.pw.toml"
+hash = "d441f46faae9f05522512772d77e471cea03ccafb05eb61a35c1f62196b8bb67"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "7bebff0ec65bcef0fc44358719d3b9ccc6e0d658ea49c07b24c3d9416e4576f2"
 metafile = true
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
+metafile = true
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
 
 [[files]]
@@ -753,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "ea33d99764a8bae0618db5fc2eebec624f72f49bd6189b9818eb214687f71a82"
 metafile = true
 
 [[files]]

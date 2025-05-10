@@ -1,0 +1,13 @@
+name = "Experimentalist"
+filename = "experimentalist-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SKCLXAJ2/versions/so1t0Ne9/experimentalist-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0f6a18f3100e389b93c8059381254d8c685c794d1933fbea605509025265632beb928dded1cc46c8f92006b2212c5ade8e4550434b215c729b7bed5f73155669"
+
+[update]
+[update.modrinth]
+mod-id = "SKCLXAJ2"
+version = "so1t0Ne9"
