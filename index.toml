@@ -226,7 +226,7 @@ hash = "e444b1ad6b19ce4d9e29ff609b9950aa91da72c0b2fc6e2bf674799377216569"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/machines.js"
-hash = "30da4acd791ec6df581793481a88f9c015b257c1438beb5e40a383ff8284907a"
+hash = "08e28d830997bb4b8a0adaa9ba830b024a0583e5ecfe291a01f22de2ed40f2d3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/minecraft.js"
