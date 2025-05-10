@@ -90,11 +90,11 @@ hash = "7e37f662fb13ee6d951e1c03b23f8e5042ca46aa0040f64f9183c96550e2868d"
 
 [[files]]
 file = "kubejs/assets/cc_recrafted/models/item/processor.json"
-hash = "5487b56968943e5b1dbf932cb63c0e0dfc486cdd8b6bf0b5ddb14bf8a911d222"
+hash = "77e3ceaf4d165dd5f25f54ba9426d70fac5eda29ea81fd95bc60f5828adbc5d5"
 
 [[files]]
 file = "kubejs/assets/cc_recrafted/models/item/wireless_ender_core.json"
-hash = "f3746c29277b9ac1bef82c40ca1e69f894f1ddec7496e68e4391fb7a689195ec"
+hash = "f103b2fbd2df893d099215daa0bcb60902d6e2ba676699e2aa78022fada04656"
 
 [[files]]
 file = "kubejs/assets/cc_recrafted/textures/item/advanced_processor.png"
@@ -130,23 +130,23 @@ hash = "adafb5772ef9fa34d5894e96f473ab4bae566f1929c975a33b8e9abc9dcf5ffa"
 
 [[files]]
 file = "kubejs/assets/coppertools/models/item/copper_axe.json"
-hash = "b5fc6f75c1773afd39b36fa18d605c23b85329cc58a445473446ef9ed6350677"
+hash = "d50fdad5e032d99f0b4b37dc243e11801681914c025cb80e43a7b4fbe5cc0c30"
 
 [[files]]
 file = "kubejs/assets/coppertools/models/item/copper_hoe.json"
-hash = "b9e3e63f72280285adb5b00aeae0bd1e14826252e501f84520953e50faa13755"
+hash = "0d064e3fb487aff415100cb58e3cad3530de64c881dda13ebedb8c7297a060ad"
 
 [[files]]
 file = "kubejs/assets/coppertools/models/item/copper_pickaxe.json"
-hash = "94d0c71b1be5daabd616b4ffa475029a3e816bf47cbf8fce7274840498a19216"
+hash = "e0076ba861f9d556f2a178cf96745e0c63caf21cc4727081cc80520b9875f236"
 
 [[files]]
 file = "kubejs/assets/coppertools/models/item/copper_shovel.json"
-hash = "42e592cc5b0e3b41d8286e68ebb8b29d3a6272a299f85617e466ab8fc6545ab8"
+hash = "74db70933990f6d46bf867610e647fa0f96b3acae5f47fca7feae4c7a10e34b8"
 
 [[files]]
 file = "kubejs/assets/coppertools/models/item/copper_sword.json"
-hash = "b114aec495791e26bca426d5e4618745c1f1c017de1befcb504c1ff3d4ac5551"
+hash = "f715bff5606d417ba7c56f88999b4f1340d30687507e1e58f247cfdbe3f52416"
 
 [[files]]
 file = "kubejs/assets/coppertools/textures/item/copper_axe.png"
@@ -174,19 +174,19 @@ hash = "c751ba657bc26660a6e021373e2b5e98fdfc567b571c38e5b57fa07aa6c6bfb2"
 
 [[files]]
 file = "kubejs/assets/roughstart/models/item/flint_axe.json"
-hash = "86a549820c4e9f4c57945ba4e35c4d2d5feab1e42d4e85c247c6eabc5e7a7efe"
+hash = "b062112389c53c4bcfea11a4aa2d3400b6f44be0a4b56ae30602513293d36af4"
 
 [[files]]
 file = "kubejs/assets/roughstart/models/item/flint_pickaxe.json"
-hash = "5512dd4e1df1d683b98ef08e3f5337e2a2105a5eef597f8341607038a6058ca3"
+hash = "386d7526f7f7ba3630d301c9090110a10a3788d14c581ec40efe962c62071e89"
 
 [[files]]
 file = "kubejs/assets/roughstart/models/item/flint_shard.json"
-hash = "389b828e541effc41332940152a183c453ebe52d33b82a9f1a8a77496e03878e"
+hash = "c0bf2ba8ba9da4e93788e0ad90318711f0af34824e0cd231b110d7af23e975d5"
 
 [[files]]
 file = "kubejs/assets/roughstart/models/item/twine.json"
-hash = "8e8c4cdf73af7daf51f731f6aaf531d733718e8f218f2ee5d9223ff3af5a91d6"
+hash = "286e33a64fda7006342d8dc7917e03459c8378c7e4bbf9f8d180a3ceeaec6641"
 
 [[files]]
 file = "kubejs/assets/roughstart/textures/item/flint_axe.png"
@@ -206,7 +206,7 @@ hash = "8833521ad6899f1fda3837428443fe1cbe5db8ca43a04af615fc514f80cd9f44"
 
 [[files]]
 file = "kubejs/server_scripts/loot/roughstart.js"
-hash = "4b7939ef6d10e137375e3b33ab0bc0aff4836f3a968f4901d6bf1b5ca70a2afc"
+hash = "31b944a63b78ea76f745302efba23e967467e0f210517c6070e200d0b7f67c23"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -230,7 +230,7 @@ hash = "294cd38a3750b7618617558c3be856e7d2f50d5e774d73df7f67bf1e42562fa2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/roughstart.js"
-hash = "7af6ec3d59bce34920231a13650b63059f0b6d5f3197c41eb08d44cc09717ed6"
+hash = "a898efabb915fe0c752a46ab02af514f1c777f89e5dfa10d212f0545cc0460d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/sophisticated_backpacks.js"
