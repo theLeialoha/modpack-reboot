@@ -17,5 +17,4 @@ StartupEvents.registry('item', event => {
 
   for (const item of items)
     event.create('cc_recrafted:' + item);
-
 });
