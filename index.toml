@@ -190,6 +190,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "178622c5b58b949428f417160bad79978e91b37978fd29099d442775b9a3e5fa"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
@@ -232,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "a59457f6cd1ed326cf23b0baf95c71565cfd86033870ef1a559d18231bc2cab4"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
 
 [[files]]
@@ -305,13 +320,38 @@ hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "08383f7378f7bed0d61c328b1501dae5045356d328014a074e35aed601edba3b"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "7bebff0ec65bcef0fc44358719d3b9ccc6e0d658ea49c07b24c3d9416e4576f2"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "c088ee3e0b1219adb637caeea4b6a16beec6234c03abfb4e01c8aaec6741b57c"
 metafile = true
 
 [[files]]
+file = "mods/farmers-croptopia.pw.toml"
+hash = "564bbd6e05dc25d9929b414f2678702df40a9f0e593f3a8621df7fb823943033"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "fd404b08e12f47d993941c570c86b670953d49f71f7108910a8c4d1701fd67a1"
 metafile = true
 
 [[files]]
@@ -372,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "1e0e48cc2fbe7b961c0dd5286b5a1786564b63b2fbc268eda2cbb2ec80612a0b"
 metafile = true
 
 [[files]]
@@ -510,6 +555,16 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "4357c5d5ff1a2caae833d09a88f1c228de513ebd150801f0b0f871c7adb81f9f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "303d0373d4e5568225e6da3ff61786bb0225d99636eed4b75d46f3dc9f4d585a"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
 metafile = true
@@ -517,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "33eba62d133ca3ba2113c1cc8a100667ad81c46d5efb9dbb1fdf8f0f57be4393"
 metafile = true
 
 [[files]]
