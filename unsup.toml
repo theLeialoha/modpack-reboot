@@ -10,7 +10,7 @@ description = "No rendering mods."
 
 [[flavor_groups.rendering_mod.choices]]
 id = "embeddium"
-name = "Embeddium"
+name = "Embeddium  (Recommended)"
 description = "Installs Embeddium and Iris, increasing performance and providing support for shaderpacks.\n<i>* Includes additional bugfixes & features for better mod compatibility</i>"
 
 [[flavor_groups.rendering_mod.choices]]
@@ -19,9 +19,35 @@ name = "Sodium"
 description = "Installs Sodium and Iris, increasing performance and providing support for shaderpacks."
 
 
+[flavor_groups.recipe_mod]
+name = "Recipe Veiwer Mod"
+description = "Which recipe veiwer mod you'd like to use."
+side = "client"
+
+[[flavor_groups.recipe_mod.choices]]
+id = "jei"
+name = "JEI (Legacy)"
+description = "Installs JustEnoughItems, showing the base recipes and that's all."
+
+[[flavor_groups.recipe_mod.choices]]
+id = "rei"
+name = "REI (Recommended)"
+description = "Installs JustEnoughItems and REI, creates item groups for recipes."
+
+[[flavor_groups.recipe_mod.choices]]
+id = "emi"
+name = "EMI"
+description = "Installs JustEnoughItems and EMI, quicker at registering and baking models."
+
+
 
 
 [metafile.embeddium]
 flavors = ["iris", "embeddium", "monocle-iris"]
 [metafile.sodium]
 flavors = ["iris", "sodium"]
+
+[metafile.rei]
+flavors = ["rei"]
+[metafile.emi]
+flavors = ["emi"]
