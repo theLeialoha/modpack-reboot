@@ -1,0 +1,16 @@
+shared_commit_cmds: &shared_commit_cmds
+  check:
+    glob: "*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}"
+    run: npx @biomejs/biome check --write --no-errors-on-unmatched --files-ignore-unknown=true --colors=off {staged_files}
+    stage_fixed: true
+  packwiz-refresh:
+    run: >
+      sh -c "packwiz refresh && git add index.toml pack.toml"
+    stage_fixed: true
+    always_run: true
+
+pre-commit:
+  commands: *shared_commit_cmds
+
+pre-merge-commit:
+  commands: *shared_commit_cmds

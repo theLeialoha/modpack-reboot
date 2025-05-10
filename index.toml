@@ -158,7 +158,7 @@ hash = "d5b4a341e50cae7380184cbffbac9cc1a9d059bad73c5c1d919c9ad501903e67"
 
 [[files]]
 file = "kubejs/startup_scripts/roughstart.js"
-hash = "9f23765a146e4a334d8bf5c173e456d2c4c00324e4a8863cd82a9071180332b7"
+hash = "ffbce5a275a34d20c26dbeb7e2c111d8be8e3967edc497c2fe4d84344925112f"
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
@@ -554,7 +554,3 @@ metafile = true
 file = "resourcepacks/raven-phantoms.pw.toml"
 hash = "5ee8efc0f7756d6b7c044486fd436e643d8cbef5c527c979b2dc8f804a74cd9d"
 metafile = true
-
-[[files]]
-file = "unsup.toml"
-hash = "91feccd8b2fdf4ab029af6a219b0c3b057329fad979ce04c5b7278be20a5c086"
