@@ -257,11 +257,6 @@ file = "kubejs/startup_scripts/roughstart.js"
 hash = "60636e9148f13cbe1d38c96d27d55096d644ed77d24095e1afe03cf572e6cae8"
 
 [[files]]
-file = "mods/actually-additions.pw.toml"
-hash = "d76bf659b8581bfdba126802f99a71dc16d693554b71367a8a6aab0e46e95d02"
-metafile = true
-
-[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "b0f4cb1ff87c098ef91e6e28a62bd75ec28d821d6af849b7b3b00697f5237b30"
 metafile = true
@@ -472,6 +467,11 @@ hash = "08383f7378f7bed0d61c328b1501dae5045356d328014a074e35aed601edba3b"
 metafile = true
 
 [[files]]
+file = "mods/experiencelib.pw.toml"
+hash = "f3f4c84a0618e7559226a82b23bdb1ece40d3d03bda4f84e57db4db6b0b42cb0"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "7bebff0ec65bcef0fc44358719d3b9ccc6e0d658ea49c07b24c3d9416e4576f2"
 metafile = true
@@ -557,11 +557,6 @@ hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-actually-additions.pw.toml"
-hash = "380732e8c34c103b2e6abc606a80892be9fccafc2eab97bfad089fc692e62d35"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -589,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
+metafile = true
+
+[[files]]
+file = "mods/modular-machinery-reborn.pw.toml"
+hash = "d940b9e70a2cd3baae3e0b6a3988355c7a0815395d0502ddc53b062494e13685"
 metafile = true
 
 [[files]]
