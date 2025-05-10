@@ -6,10 +6,6 @@ LootJS.modifiers((event) => {
     conditions.randomChance(0.25);
   });
 
-  const dropFlintShard = LootEntry.of("roughstart:flint_shard").when((conditions) => {
-    conditions.randomChance(0.25);
-  });
-
   event.addBlockModifier(["minecraft:grass", "minecraft:tall_grass"]).addSequenceLoot(dropTwine);
-  event.addBlockModifier(["minecraft:gravel"]).addSequenceLoot(dropFlintShard);
+  event.addBlockModifier(["minecraft:gravel"]).randomChance(0.25).addLoot("roughstart:flint_shard");
 });
