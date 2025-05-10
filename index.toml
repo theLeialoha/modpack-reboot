@@ -138,11 +138,11 @@ hash = "5a64faf7f8d5af3189da9e3ddc05f168161fff8ed8ab9f837d7b2460b1cf471c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/minecraft.js"
-hash = "9700cb66172377a6dfc5db2f3959b9fae1423dfbdd0a4afc65f5d0ce61d39553"
+hash = "294cd38a3750b7618617558c3be856e7d2f50d5e774d73df7f67bf1e42562fa2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/roughstart.js"
-hash = "8d0c628d26f1531591cbf06e6b8d9d22c1d7b60a958bc15f662cf9180ad9ea7e"
+hash = "286a090d35061fb94ed6cba613b36f9d706fce84386b4dd99e84c18258ac3c31"
 
 [[files]]
 file = "kubejs/server_scripts/utils/recipe_manager.js"
@@ -283,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "bbf03bec2bd4927ace16eef106c45b0f3ec53c48d5f43119520123ad98f3fdf1"
 metafile = true
 
 [[files]]
