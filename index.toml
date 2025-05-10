@@ -145,8 +145,12 @@ file = "kubejs/server_scripts/recipes/roughstart.js"
 hash = "9d11fa98e04f4610da414b6029d34f6156b59c682dde9891efd7a3a9720b7040"
 
 [[files]]
+file = "kubejs/server_scripts/utils/groups.js"
+hash = "c34cec01bc35391626600bd07dfebd3b2ad922caa2c4f8f57f3e53e69d345ccf"
+
+[[files]]
 file = "kubejs/server_scripts/utils/recipe_manager.js"
-hash = "748b37c7127656d1bd971e7b32cac3c504534802159f8f1f6e585830d212a6b3"
+hash = "1629999a7bedd815be6877eb9e4e1168cc70ac3b77ed1a2430e3c2a855842fa0"
 
 [[files]]
 file = "kubejs/startup_scripts/cc_recrafted.js"
@@ -158,7 +162,7 @@ hash = "d5b4a341e50cae7380184cbffbac9cc1a9d059bad73c5c1d919c9ad501903e67"
 
 [[files]]
 file = "kubejs/startup_scripts/roughstart.js"
-hash = "ffbce5a275a34d20c26dbeb7e2c111d8be8e3967edc497c2fe4d84344925112f"
+hash = "c45fa8f12423b3b860a9dc413325edf2e2c9ba28976aed147bef32dd61cd1172"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"

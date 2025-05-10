@@ -12,6 +12,10 @@ const _Yyr3thqJ6i = (() => {
     for (const item of itemsToHide) event.add("c:hidden_from_recipe_viewers", item);
   });
 
+  RecipeViewerEvents.removeEntries("item", (event) => {
+    for (const item of itemsToHide) event.remove(item);
+  });
+
   return {
     toRemove: itemsToRemove,
     toHide: itemsToHide,
