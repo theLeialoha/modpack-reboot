@@ -10,9 +10,9 @@ const flintTeir = (tier => {
 })
 
 StartupEvents.registry('item', event => {
-  event.create('roughstart:flint_sword', 'axe').modifyTier(flintTeir);
-  event.create('roughstart:flint_axe', 'axe').modifyTier(flintTeir);
-  event.create('roughstart:flint_pickaxe', 'pickaxe').modifyTier(flintTeir);
+  event.create('roughstart:flint_sword', 'axe').tier('wood').modifyTier(flintTeir);
+  event.create('roughstart:flint_axe', 'axe').tier('wood').modifyTier(flintTeir);
+  event.create('roughstart:flint_pickaxe', 'pickaxe').tier('wood').modifyTier(flintTeir);
   event.create('roughstart:twine');
 });
 
