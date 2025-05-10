@@ -118,7 +118,7 @@ hash = "eeaa98fdaecf442edac23a077ed4598a3edba50669470aeffdbae6bf486434ee"
 
 [[files]]
 file = "kubejs/server_scripts/loot/roughstart.js"
-hash = "2f7622868a9d62bbea702503e6776c56690a3dfabd2dc184b604f462331c1b9b"
+hash = "820e2cf0baa84c0f55fd69b9adbcd002ac4a13d7f663873421b9a6b378d918ce"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -134,7 +134,7 @@ hash = "16d1334e04ab20eb4e0917c1593092da14215211208105831681f5fb4ecff4da"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/coppertools.js"
-hash = "5a64faf7f8d5af3189da9e3ddc05f168161fff8ed8ab9f837d7b2460b1cf471c"
+hash = "e444b1ad6b19ce4d9e29ff609b9950aa91da72c0b2fc6e2bf674799377216569"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/minecraft.js"
@@ -142,7 +142,7 @@ hash = "294cd38a3750b7618617558c3be856e7d2f50d5e774d73df7f67bf1e42562fa2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/roughstart.js"
-hash = "286a090d35061fb94ed6cba613b36f9d706fce84386b4dd99e84c18258ac3c31"
+hash = "9d11fa98e04f4610da414b6029d34f6156b59c682dde9891efd7a3a9720b7040"
 
 [[files]]
 file = "kubejs/server_scripts/utils/recipe_manager.js"

@@ -12,14 +12,6 @@ ServerEvents.recipes((event) => {
     S: "minecraft:stick",
   });
 
-  event
-    .shaped("roughstart:flint_axe", ["FF", "ST"], {
-      F: "minecraft:flint",
-      T: "roughstart:twine",
-      S: "minecraft:stick",
-    })
-    .hide();
-
   event.shaped("roughstart:flint_pickaxe", ["FFF", "TST", " S "], {
     F: "minecraft:flint",
     T: "roughstart:twine",
