@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/default_files/config/fancymenu/options.txt"
+hash = "d9f90ebcf80e982d0ed70f5941be409b3cc92e834c40bb1e7dffc4e1b934e4ca"
+
+[[files]]
+file = "config/default_files/config/sophisticatedbackpacks-server.toml"
+hash = "653211a48b82282447f71e0740c744c7e1cad1eb50429afe61ca7fe81c906a0b"
+
+[[files]]
 file = "config/paxi/resourcepacks/ComputerCreate+Create_ComputerCraft.zip"
 hash = "c7c17ca9abe8a27c979f8089251e2ed801a3f2d9173f365a6071970058002c93"
 
@@ -117,12 +125,92 @@ file = "kubejs/assets/cc_recrafted/textures/item/wireless_ender_core.png"
 hash = "eeaa98fdaecf442edac23a077ed4598a3edba50669470aeffdbae6bf486434ee"
 
 [[files]]
+file = "kubejs/assets/coppertools/lang/en_us.json"
+hash = "adafb5772ef9fa34d5894e96f473ab4bae566f1929c975a33b8e9abc9dcf5ffa"
+
+[[files]]
+file = "kubejs/assets/coppertools/models/item/copper_axe.json"
+hash = "b5fc6f75c1773afd39b36fa18d605c23b85329cc58a445473446ef9ed6350677"
+
+[[files]]
+file = "kubejs/assets/coppertools/models/item/copper_hoe.json"
+hash = "b9e3e63f72280285adb5b00aeae0bd1e14826252e501f84520953e50faa13755"
+
+[[files]]
+file = "kubejs/assets/coppertools/models/item/copper_pickaxe.json"
+hash = "94d0c71b1be5daabd616b4ffa475029a3e816bf47cbf8fce7274840498a19216"
+
+[[files]]
+file = "kubejs/assets/coppertools/models/item/copper_shovel.json"
+hash = "42e592cc5b0e3b41d8286e68ebb8b29d3a6272a299f85617e466ab8fc6545ab8"
+
+[[files]]
+file = "kubejs/assets/coppertools/models/item/copper_sword.json"
+hash = "b114aec495791e26bca426d5e4618745c1f1c017de1befcb504c1ff3d4ac5551"
+
+[[files]]
+file = "kubejs/assets/coppertools/textures/item/copper_axe.png"
+hash = "f5ca86e50a8a2de9d5b5302089839f2c689013ad1691ac22b0d5cbec43db3f2d"
+
+[[files]]
+file = "kubejs/assets/coppertools/textures/item/copper_hoe.png"
+hash = "f5bc3d88b693c24ea0f67d3ad6734961ef678ac89d3eb6e5c1be3e71795f7f0a"
+
+[[files]]
+file = "kubejs/assets/coppertools/textures/item/copper_pickaxe.png"
+hash = "2e7c588fc6c42d35af36ffff9d27dae2483429218ec35575c87721e4881d79e2"
+
+[[files]]
+file = "kubejs/assets/coppertools/textures/item/copper_shovel.png"
+hash = "ce5da3b377b8f447b0b3f1c858256a212e6fbb0b4c4cc7ca2de421cca733b871"
+
+[[files]]
+file = "kubejs/assets/coppertools/textures/item/copper_sword.png"
+hash = "7f10e404b5f297d1a8f9bd582edd0a9758ac1cdc155626b85f2eb0474d4e819a"
+
+[[files]]
+file = "kubejs/assets/roughstart/lang/en_us.json"
+hash = "c751ba657bc26660a6e021373e2b5e98fdfc567b571c38e5b57fa07aa6c6bfb2"
+
+[[files]]
+file = "kubejs/assets/roughstart/models/item/flint_axe.json"
+hash = "86a549820c4e9f4c57945ba4e35c4d2d5feab1e42d4e85c247c6eabc5e7a7efe"
+
+[[files]]
+file = "kubejs/assets/roughstart/models/item/flint_pickaxe.json"
+hash = "5512dd4e1df1d683b98ef08e3f5337e2a2105a5eef597f8341607038a6058ca3"
+
+[[files]]
+file = "kubejs/assets/roughstart/models/item/flint_shard.json"
+hash = "389b828e541effc41332940152a183c453ebe52d33b82a9f1a8a77496e03878e"
+
+[[files]]
+file = "kubejs/assets/roughstart/models/item/twine.json"
+hash = "8e8c4cdf73af7daf51f731f6aaf531d733718e8f218f2ee5d9223ff3af5a91d6"
+
+[[files]]
+file = "kubejs/assets/roughstart/textures/item/flint_axe.png"
+hash = "b0216f7e9e3895d52c6cc2f8d4d668118ef71b7617df728aaf9cf181e1e971f4"
+
+[[files]]
+file = "kubejs/assets/roughstart/textures/item/flint_pickaxe.png"
+hash = "9f30ca2fbe669d8fbfa92040615b5cb76df109bae94bae430ef0c427dae2dc12"
+
+[[files]]
+file = "kubejs/assets/roughstart/textures/item/flint_shard.png"
+hash = "2e9660295fb4b78581d5c9f06442ed6e0653ea2a20878a69d86f5ecc79893808"
+
+[[files]]
+file = "kubejs/assets/roughstart/textures/item/twine.png"
+hash = "8833521ad6899f1fda3837428443fe1cbe5db8ca43a04af615fc514f80cd9f44"
+
+[[files]]
 file = "kubejs/server_scripts/loot/roughstart.js"
-hash = "820e2cf0baa84c0f55fd69b9adbcd002ac4a13d7f663873421b9a6b378d918ce"
+hash = "4b7939ef6d10e137375e3b33ab0bc0aff4836f3a968f4901d6bf1b5ca70a2afc"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+hash = "c8db7be56d6608c3dc0184ada3e45d96e0485e2beb9f22cabe7f1ed404975ff3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cc_recrafted.js"
@@ -142,7 +230,11 @@ hash = "294cd38a3750b7618617558c3be856e7d2f50d5e774d73df7f67bf1e42562fa2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/roughstart.js"
-hash = "9d11fa98e04f4610da414b6029d34f6156b59c682dde9891efd7a3a9720b7040"
+hash = "7af6ec3d59bce34920231a13650b63059f0b6d5f3197c41eb08d44cc09717ed6"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/sophisticated_backpacks.js"
+hash = "57c8bfbe328a3ee89194d51a2abe7e3549ae066fd888f11cdf9238e5f7582839"
 
 [[files]]
 file = "kubejs/server_scripts/utils/groups.js"
@@ -162,7 +254,12 @@ hash = "d5b4a341e50cae7380184cbffbac9cc1a9d059bad73c5c1d919c9ad501903e67"
 
 [[files]]
 file = "kubejs/startup_scripts/roughstart.js"
-hash = "c45fa8f12423b3b860a9dc413325edf2e2c9ba28976aed147bef32dd61cd1172"
+hash = "60636e9148f13cbe1d38c96d27d55096d644ed77d24095e1afe03cf572e6cae8"
+
+[[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "d76bf659b8581bfdba126802f99a71dc16d693554b71367a8a6aab0e46e95d02"
+metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
@@ -232,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "144ba9e7889fad8c466f9632a1a083246eab116b919549c8c2c374f59334f2ae"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -455,6 +557,11 @@ hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-actually-additions.pw.toml"
+hash = "380732e8c34c103b2e6abc606a80892be9fccafc2eab97bfad089fc692e62d35"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -492,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
+metafile = true
+
+[[files]]
+file = "mods/more-lights.pw.toml"
+hash = "030f1e15af3c6e399cb2cccea2372521921473feccf4eb3dee63c63b3b265c0b"
 metafile = true
 
 [[files]]
@@ -585,6 +697,11 @@ hash = "f527c21279cbfc2025d9cdf8267fe22cd43b42a2f994fc4ae0d76c069a844387"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
@@ -615,6 +732,11 @@ hash = "303d0373d4e5568225e6da3ff61786bb0225d99636eed4b75d46f3dc9f4d585a"
 metafile = true
 
 [[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "8d9d741f3b4a89c617f8ea7d4ba02c0b82e8703e441478f23633945a1a653988"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
 metafile = true
@@ -622,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "87efe123ee3fe0133a4e951f110a98a32b16068a3033f2c3a0dbed574ff48cf0"
 metafile = true
 
 [[files]]

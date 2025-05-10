@@ -1,11 +1,6 @@
 // priority: 0
 
 ServerEvents.recipes((event) => {
-  event.shaped("roughstart:flint_sword", ["F", "S"], {
-    F: "minecraft:flint",
-    S: "minecraft:stick",
-  });
-
   event.shaped("roughstart:flint_axe", ["FF", "TS"], {
     F: "minecraft:flint",
     T: "roughstart:twine",

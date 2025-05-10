@@ -1,0 +1,13 @@
+name = "More Lights"
+filename = "more_lights-0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UpEFpC3m/versions/b84qQqUK/more_lights-0.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "9d51fa7005652f0cc82dcdcdbfb7370f321ccd653575621ea22213b924e94eed3762599b045c594e6bc4d722fe4ca1c37fa5f78b202e4df0b081fd275822860f"
+
+[update]
+[update.modrinth]
+mod-id = "UpEFpC3m"
+version = "b84qQqUK"
