@@ -605,11 +605,6 @@ hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
 metafile = true
 
 [[files]]
-file = "mods/modular-machinery-reborn.pw.toml"
-hash = "d940b9e70a2cd3baae3e0b6a3988355c7a0815395d0502ddc53b062494e13685"
-metafile = true
-
-[[files]]
 file = "mods/monocle-iris.pw.toml"
 hash = "ebb19f81682fcc81ee7330d3b94800eb0696c8de54d1df84e935781c4fa42af5"
 metafile = true
