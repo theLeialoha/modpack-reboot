@@ -1,0 +1,13 @@
+name = "Create: Simple Generator"
+filename = "create_simple_generator-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aUM6iEVi/versions/wsLg0CJ4/create_simple_generator-1.0.6.jar"
+hash-format = "sha512"
+hash = "5b6e9ac6721b41fe5f0d4cf5358f6d09818a2c23336cedb23138e104a4066f8d75dc87aa574a527e4b71575b20698ddda97f35e4798bf8233233d3b823065ccf"
+
+[update]
+[update.modrinth]
+mod-id = "aUM6iEVi"
+version = "wsLg0CJ4"
