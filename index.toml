@@ -154,11 +154,11 @@ hash = "a5082ac5ef81f0adbf20859a7dcf04fbd1f863b48f61708b779c1c2faee06037"
 
 [[files]]
 file = "kubejs/startup_scripts/coppertools.js"
-hash = "e10345c135c831622733f04f9b2b036bf0ec0518c6a421b270441b32de94b822"
+hash = "f0c9fef7a9e1a5a24c73606b13213b0f97a0a629be28622d00450126880dfc26"
 
 [[files]]
 file = "kubejs/startup_scripts/roughstart.js"
-hash = "9488c20855a07c8e60271fb16a968c690737ded81bfdf1094cfd7c388a7ce00e"
+hash = "d7802a909c6647c8113046444b7eddb64420e36ce84823f5925b03c99331e5ef"
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
