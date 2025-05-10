@@ -206,7 +206,7 @@ hash = "8833521ad6899f1fda3837428443fe1cbe5db8ca43a04af615fc514f80cd9f44"
 
 [[files]]
 file = "kubejs/server_scripts/loot/roughstart.js"
-hash = "17daa72341bd3565d2dbbbd760900eab707465b0ee3bbee82d09220696594376"
+hash = "4d4945613cf76935804dc73d6dcb64d4c9845686af9f92de0537f2dbbce324ad"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"

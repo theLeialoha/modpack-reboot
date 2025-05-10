@@ -7,5 +7,23 @@ LootJS.modifiers((event) => {
   });
 
   event.addBlockModifier(["minecraft:grass", "minecraft:tall_grass"]).addSequenceLoot(dropTwine);
-  event.addBlockModifier(["minecraft:gravel"]).randomChance(0.25).addLoot("roughstart:flint_shard");
+
+  const gravelWhenSilkTouch = LootEntry.of("minecraft:gravel").when((c) =>
+    c.matchMainHand(ItemFilter.hasEnchantment("minecraft:silk_touch")),
+  );
+
+  const flintWhenFortune = LootEntry.of("minecraft:flint").randomChanceWithEnchantment(
+    "minecraft:looting",
+    [0.1, 0.14285715, 0.25, 1.0],
+  );
+
+  const gravel = LootEntry.sequence(
+    LootEntry.of("minecraft:gravel"),
+    LootEntry.of("roughstart:flint_shard").when((c) => c.randomChance(0.25)),
+  );
+
+  event
+    .addBlockLootModifier("minecraft:gravel")
+    .removeLoot(Ingredient.all)
+    .addAlternativesLoot(gravelWhenSilkTouch, appleWhenSilkTouch, gravel);
 });
