@@ -1,0 +1,13 @@
+name = "Explosive Enhancement: Reforged"
+filename = "explosiveenhancement-neoforge-1.21.1-1.1.1-client.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0camchr/versions/rO6whLy8/explosiveenhancement-neoforge-1.21.1-1.1.1-client.jar"
+hash-format = "sha512"
+hash = "cb203e4d56af846c4e1dba997770c9d34177b5701e68d43839412ca77bae8883f6fcbe9a7c44bedbadfd21742e3d6f65cd106ed22d2c91250ba782ce203e74ce"
+
+[update]
+[update.modrinth]
+mod-id = "r0camchr"
+version = "rO6whLy8"
