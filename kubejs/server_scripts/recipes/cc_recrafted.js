@@ -73,7 +73,7 @@ ServerEvents.recipes((event) => {
         results: [{ id: "cc_recrafted:incomplete_processor" }],
       },
     ],
-    transitionalItem: { id: "cc_recrafted:incomplete_processor" },
+    transitional_item: { id: "cc_recrafted:incomplete_processor" },
   });
 
   event.custom({
@@ -89,7 +89,7 @@ ServerEvents.recipes((event) => {
       { item: "cc_recrafted:internal_circuit" },
       { item: "cc_recrafted:internal_circuit" },
     ],
-    results: [{ item: "cc_recrafted:processor" }],
+    results: [{ id: "cc_recrafted:processor" }],
   });
 
   event.custom({
@@ -99,6 +99,6 @@ ServerEvents.recipes((event) => {
       { tag: "c:plates/copper" },
       { item: "create_things_and_misc:rose_quartz_sheet" },
     ],
-    results: [{ item: "cc_recrafted:pcb_base" }],
+    results: [{ id: "cc_recrafted:pcb_base" }],
   });
 });

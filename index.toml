@@ -222,7 +222,7 @@ hash = "c8db7be56d6608c3dc0184ada3e45d96e0485e2beb9f22cabe7f1ed404975ff3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cc_recrafted.js"
-hash = "11bc0d906841461af7309333ea953658beb6e3422331f1dcab863a40e0c7002d"
+hash = "ec8f88792a35729d43d24a232d22c0cec1a5be37fcd762e8297a6bc091b3e9d5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cc_tweaked.js"
