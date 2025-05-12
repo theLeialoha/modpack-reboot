@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "7ee30a03497d5fac925f6e49d739563e67af32454946e43df6628e9ab1eb8ebb"
+hash = "2683475e92d83487645985074ecc61e9e94e4ffba6def00d06ededb01d267efd"
 metafile = true
 
 [[files]]
