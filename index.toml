@@ -13,6 +13,10 @@ file = "config/paxi/resourcepacks/ComputerCreate+Create_ComputerCraft.zip"
 hash = "c7c17ca9abe8a27c979f8089251e2ed801a3f2d9173f365a6071970058002c93"
 
 [[files]]
+file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
+hash = "b707ecd2d3738b2861535a9038dfe883311a51184f8cb0a9de1b6b9b9e26dd64"
+
+[[files]]
 file = "config/starterkit/kits/default.txt"
 hash = "a08545733d0d1dab56f6d233b1f3bdd1c067966e7d4d756bb23cdfa5e5a738a3"
 
