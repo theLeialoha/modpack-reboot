@@ -222,7 +222,7 @@ hash = "c8db7be56d6608c3dc0184ada3e45d96e0485e2beb9f22cabe7f1ed404975ff3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cc_recrafted.js"
-hash = "9551e7cdfd9d8d4af2b56dc3abb071b9de9826f67d537f170a2a0959c8215438"
+hash = "11bc0d906841461af7309333ea953658beb6e3422331f1dcab863a40e0c7002d"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cc_tweaked.js"
@@ -246,7 +246,7 @@ hash = "a898efabb915fe0c752a46ab02af514f1c777f89e5dfa10d212f0545cc0460d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/sophisticated_backpacks.js"
-hash = "57c8bfbe328a3ee89194d51a2abe7e3549ae066fd888f11cdf9238e5f7582839"
+hash = "6a6eef6ca4549121dadecdc104171302bf719363fc25040065348ae8db1ba7b3"
 
 [[files]]
 file = "kubejs/server_scripts/utils/groups.js"
@@ -396,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
-metafile = true
-
-[[files]]
-file = "mods/create-extra-casing.pw.toml"
-hash = "b104731c5e6f3fba4464709c3c18950f58972d760aba74a6909230cb2c3a752c"
 metafile = true
 
 [[files]]

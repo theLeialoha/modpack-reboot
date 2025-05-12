@@ -21,24 +21,22 @@ removeItemRecipes(["sophisticatedbackpacks:iron_backpack"]);
 
 ServerEvents.recipes((event) => {
   event.custom({
-    type: "sophisticatedbackpacks:backpack_upgrade",
-    "fabric:load_conditions": [
+    "neoforge:conditions": [
       {
-        condition: "sophisticatedcore:item_enabled",
+        type: "sophisticatedcore:item_enabled",
         itemRegistryName: "sophisticatedbackpacks:iron_backpack",
       },
     ],
-    pattern: ["III", "IBI", "III"],
+    type: "sophisticatedbackpacks:backpack_upgrade",
+    category: "misc",
     key: {
-      B: {
-        item: "sophisticatedbackpacks:copper_backpack",
-      },
-      I: {
-        tag: "c:iron_ingots",
-      },
+      B: { item: "sophisticatedbackpacks:copper_backpack" },
+      I: { tag: "c:ingots/iron" },
     },
+    pattern: ["III", "IBI", "III"],
     result: {
-      item: "sophisticatedbackpacks:iron_backpack",
+      count: 1,
+      id: "sophisticatedbackpacks:iron_backpack",
     },
   });
 });
