@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "e50a69af6b2c3b86b2290a86e2b5a43e44a1db7c61b6e5ced4ce20815f9363e3"
+
+[[files]]
 file = "config/default_files/config/fancymenu/options.txt"
 hash = "d9f90ebcf80e982d0ed70f5941be409b3cc92e834c40bb1e7dffc4e1b934e4ca"
 
@@ -14,7 +18,7 @@ hash = "c7c17ca9abe8a27c979f8089251e2ed801a3f2d9173f365a6071970058002c93"
 
 [[files]]
 file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
-hash = "b707ecd2d3738b2861535a9038dfe883311a51184f8cb0a9de1b6b9b9e26dd64"
+hash = "f26a0514db9a133e914eba9f97884d6269cd0a8a7c21dc4f7a135f99703aad87"
 
 [[files]]
 file = "config/starterkit/kits/default.txt"
@@ -341,6 +345,16 @@ metafile = true
 [[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "de47f720da923c1c601bd184f40379e8dd6db17619ec8705c8f885b70b060bae"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "7ee30a03497d5fac925f6e49d739563e67af32454946e43df6628e9ab1eb8ebb"
 metafile = true
 
 [[files]]
