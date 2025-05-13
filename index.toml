@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "b8c6d8beddbf600a339f690ed57a3cdde1ec84fe8d6656d576d164413e74bef7"
+
+[[files]]
 file = "config/biome_replacer.properties"
 hash = "e50a69af6b2c3b86b2290a86e2b5a43e44a1db7c61b6e5ced4ce20815f9363e3"
 
@@ -11,6 +15,10 @@ hash = "d9f90ebcf80e982d0ed70f5941be409b3cc92e834c40bb1e7dffc4e1b934e4ca"
 [[files]]
 file = "config/default_files/config/sophisticatedbackpacks-server.toml"
 hash = "653211a48b82282447f71e0740c744c7e1cad1eb50429afe61ca7fe81c906a0b"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "e708d6803a862c465f3a595bcae111b999e9073f4f734f0ec66f95933671974b"
 
 [[files]]
 file = "config/paxi/resourcepacks/ComputerCreate+Create_ComputerCraft.zip"
