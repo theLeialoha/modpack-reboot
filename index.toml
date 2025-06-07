@@ -6,7 +6,7 @@ hash = "b8c6d8beddbf600a339f690ed57a3cdde1ec84fe8d6656d576d164413e74bef7"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "e50a69af6b2c3b86b2290a86e2b5a43e44a1db7c61b6e5ced4ce20815f9363e3"
+hash = "d5fd0bcf65d2c5a8bd24f86b4b8c04f26b0e1517171edeb1879c367ee145aeb6"
 
 [[files]]
 file = "config/default_files/config/fancymenu/options.txt"
