@@ -5,10 +5,6 @@ file = "config/betterdays-common.toml"
 hash = "b8c6d8beddbf600a339f690ed57a3cdde1ec84fe8d6656d576d164413e74bef7"
 
 [[files]]
-file = "config/biome_replacer.properties"
-hash = "d5fd0bcf65d2c5a8bd24f86b4b8c04f26b0e1517171edeb1879c367ee145aeb6"
-
-[[files]]
 file = "config/default_files/config/fancymenu/options.txt"
 hash = "d9f90ebcf80e982d0ed70f5941be409b3cc92e834c40bb1e7dffc4e1b934e4ca"
 
@@ -358,11 +354,6 @@ metafile = true
 [[files]]
 file = "mods/betterdays.pw.toml"
 hash = "de47f720da923c1c601bd184f40379e8dd6db17619ec8705c8f885b70b060bae"
-metafile = true
-
-[[files]]
-file = "mods/biome-replacer.pw.toml"
-hash = "2683475e92d83487645985074ecc61e9e94e4ffba6def00d06ededb01d267efd"
 metafile = true
 
 [[files]]
@@ -798,6 +789,11 @@ metafile = true
 [[files]]
 file = "mods/scribble.pw.toml"
 hash = "3ad87fbb20108d7aa5c89759f64d6695e5ec68553f32976f0710bd0a4d34d85b"
+metafile = true
+
+[[files]]
+file = "mods/snow-weather.pw.toml"
+hash = "90376c7c474209e209b5ee9fcd321772eaf31f18b1d8f5a38675b1cf0e9246db"
 metafile = true
 
 [[files]]
