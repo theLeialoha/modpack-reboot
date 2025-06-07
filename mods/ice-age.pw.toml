@@ -1,0 +1,13 @@
+name = "Ice Age"
+filename = "ice_age-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BQ1MzggY/versions/h9TtYhLJ/ice_age-1.0.0.jar"
+hash-format = "sha512"
+hash = "639bbb3e3b868cd69bb3c5c2df3a7d15ef2f5fac1d48da18690682b6aa1370a74f603c9784190e356fed7d81faa3556ddffdee8e5a0a38f9b34c7e9c500abcd2"
+
+[update]
+[update.modrinth]
+mod-id = "BQ1MzggY"
+version = "h9TtYhLJ"

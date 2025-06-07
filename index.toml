@@ -597,6 +597,11 @@ hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
 
 [[files]]
+file = "mods/ice-age.pw.toml"
+hash = "b595916fe1afa73254d18781e37a510b1c8f651d3fb647f58ed6708e2ab596af"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
 metafile = true
@@ -789,11 +794,6 @@ metafile = true
 [[files]]
 file = "mods/scribble.pw.toml"
 hash = "3ad87fbb20108d7aa5c89759f64d6695e5ec68553f32976f0710bd0a4d34d85b"
-metafile = true
-
-[[files]]
-file = "mods/snow-weather.pw.toml"
-hash = "90376c7c474209e209b5ee9fcd321772eaf31f18b1d8f5a38675b1cf0e9246db"
 metafile = true
 
 [[files]]
